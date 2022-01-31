@@ -12,7 +12,10 @@ a repo for my Javascript learning
 ## Using VS code editor to run p5.js
 
 Step 1 - find p5 extensions, select **p5.vscode**
-![vscode](./img/step-vscode.png)
+
+
+![vscode](./img/step1-vscode.png)
+
 
 Step 2 - (om mac) `cmd` + `shift` + `p` which opens the search bar 
 in VS Code, select **Create p5.js Project.**, then there is drop down menu
@@ -41,7 +44,9 @@ Step 4 - enter your JavaScript code, save it and click
 
 ![js](./img/step4-js-code.png)
 
+
 Step 5 - Art !
+
 ![art](./img/step5-art.png)
 
 
