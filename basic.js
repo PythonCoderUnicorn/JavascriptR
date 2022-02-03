@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 // this Javascript file NOT LINKED to index.html
 
 // this file is to document each code section that was placed
@@ -330,3 +331,22 @@ btn.addEventListener('click', (e) => {
  
 })
 
+=======
+// Javascript file
+
+// code that is here is from the p5.js online web code editor and pasted here for reference.
+
+
+//-------------------- starter code
+function setup() {
+  createCanvas(500, 500); // canvas dimension
+}
+
+function draw() {
+  background(100); // grey bg
+//-------------------
+  
+  //   x    y   w   ht
+  rect(230, 78, 56, 70);
+}
+>>>>>>> 5bc7d144d5c6f864a336619fec34e639dbd2f648
