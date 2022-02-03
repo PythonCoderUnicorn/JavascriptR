@@ -1,6 +1,5 @@
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 // this Javascript file NOT LINKED to index.html
 
 // this file is to document each code section that was placed
