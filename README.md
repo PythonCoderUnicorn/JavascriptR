@@ -42,6 +42,8 @@ placed in the file
 Step 4 - enter your JavaScript code, save it and click
 **live server** on the bottom of VS Code. This will open your web browser.
 
+open terminal in VS Code, cd into p5 directory, type `code sketch.js` and it will open the local viewer.
+
 ![js](./img/step4-js-code.png)
 
 
