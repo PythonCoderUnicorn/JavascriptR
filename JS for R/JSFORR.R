@@ -56,10 +56,19 @@ ctx$eval("2 *7")
 
 
 
+library(jsonlite)
+
+lst <- list(
+  a = 1,
+  b = list(
+    c = c("A", "B")
+  ),
+  d = 1:5
+)
+
+toJSON(lst, pretty = TRUE)
 
 
-
-
-
-
+df = cars[1:2, ]
+toJSON(df, pretty = T)
 
