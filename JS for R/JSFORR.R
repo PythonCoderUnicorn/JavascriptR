@@ -72,3 +72,22 @@ toJSON(lst, pretty = TRUE)
 df = cars[1:2, ]
 toJSON(df, pretty = T)
 
+
+row.names(df)
+
+df_list = apply(df, 1, as.list)
+
+toJSON(df_list, pretty = T, auto_unbox = T)
+
+# from JSON to R
+json = toJSON(df)
+json
+
+fromJSON(json)
+
+# list to df
+class(df_list) 
+json = fromJSON(json)
+json
+
+
