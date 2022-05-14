@@ -1,27 +1,17 @@
 # JavascriptR
+
 a repo for my Javascript learning 
 
-- node JS allows for 3rd party apps
-
-- https://generativeartistry.com/tutorials/hours-of-dark/
 
 ### for online web browser editor
 - https://editor.p5js.org
 - https://p5js.org/get-started/
+- use NodeJS to run JS 
+- https://generativeartistry.com/tutorials/hours-of-dark/
 
 ## Using VS code editor to run p5.js
 
-Step 1 - find p5 extensions, select **p5.vscode**
-
-
-![vscode](./img/step1-vscode.png)
-
-
-Step 2 - (om mac) `cmd` + `shift` + `p` which opens the search bar 
-in VS Code, select **Create p5.js Project.**, then there is drop down menu
-for which library you want to install.
-
-step 2.1 - install these libraries
+ensure you have these libraries 
 ```
 p5.min.js
 p5.sound.min.js
@@ -33,31 +23,16 @@ p5.play.js
 p5.shape.js
 ```
 
-Step 3 - inside the _index.html_ file you should see these libraries automatically
-placed in the file
- 
-![html](./img/step3-html.png) 
-
-
-Step 4 - enter your JavaScript code, save it and click
-**live server** on the bottom of VS Code. This will open your web browser.
-
-open terminal in VS Code, cd into p5 directory, type `code sketch.js` and it will open the local viewer.
-
-![js](./img/step4-js-code.png)
-
-
-Step 5 - Art !
-
-![art](./img/step5-art.png)
 
 
 
 
 
 
+## Ulam Prime Spiral - p5js
 
 
+![UlamPrimeSpiral](https://user-images.githubusercontent.com/55933131/168448189-218a9c80-b64b-4b7a-83a8-fefe65b157d3.png)
 
 
 
